@@ -1,0 +1,66 @@
+Background 
+
+Meesho is one of India's fastest-growing social commerce platforms, built largely on the trust of resellers and budget-conscious shoppers in Tier-2 and Tier-3 cities. For the past two years, repeat orders from Tier-2 cities have been a core growth driver. 
+
+Last quarter, that number dropped 15%. Leadership wants answers before the next planning cycle begins. 
+
+You have been brought in to investigate. 
+
+What the Data Shows 
+
+The growth team has pulled together the following dashboard for the last quarter: 
+
+Metric 
+
+Value 
+
+Monthly Active Users (Tier-2) 
+
+4.2 million, up 11% QoQ 
+
+New User Acquisitions (Tier-2) 
+
+up 18% QoQ 
+
+Repeat Orders (Tier-2) 
+
+down 15% QoQ 
+
+Average Session Time 
+
+6.4 minutes, flat QoQ 
+
+Cart Abandonment Rate 
+
+up 22% QoQ 
+
+Average Order Value 
+
+down 9% QoQ 
+
+Delivery Complaint Tickets 
+
+up 31% in select pin codes 
+
+Loyalty Feature Adoption 
+
+8% of eligible users 
+
+Orders Placed Using Loyalty Points 
+
+2% of total orders 
+
+The growth team has been reporting healthy MAU numbers throughout this period. Leadership is satisfied with acquisition. But repeat orders tell a different story. 
+
+ 
+
+Your Task 
+
+Start by reading this dashboard critically. Some of these metrics look reassuring. Some are quietly alarming. And some may be creating a false sense of health. Identify which numbers actually matter for the problem at hand and explain what the ones being celebrated might be masking. 
+
+Then dig into the drop itself. Map out where in the customer journey the fall is likely happening. Use the numbers above to reason through whether Meesho is losing customers before a second order, between the second and third, or further down the line. 
+
+Form at least three hypotheses that could explain the 15% drop. For each one, state what additional data you would need to confirm or rule it out. 
+
+Finally, prepare a short summary of your findings for Meesho's leadership. You do not have all the answers yet. What you do have is a clear problem, a structured way of thinking about it, and a recommended next step. Communicate that clearly. 
+
